@@ -1,5 +1,4 @@
 ## Hi👋
-# I'm Monarsh
 
 ## Cloud & AWS Architecture
 
