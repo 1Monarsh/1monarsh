@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi👋
+# I'm Monarsh
 
-<!--
-**1Monarsh/1monarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cloud & AWS Architecture
 
-Here are some ideas to get you started:
+I build production-style cloud systems with a focus on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Scalable application architecture
+* Multi-account AWS security design
+* Infrastructure as Code (Terraform)
+
+---
+
+## Featured Projects
+
+### OrgShield
+
+Enterprise-style AWS multi-account security baseline
+→ Control-plane security, SCP guardrails, centralized logging
+
+### AWS 3-Tier Architecture
+
+Production-ready scalable architecture
+→ ALB, Auto Scaling, RDS, Terraform
+
+---
+
+## Focus
+
+* AWS Solutions Architecture (SAA-C03)
+* Real-world system design
+* Building production-grade cloud infrastructure
+
+---
